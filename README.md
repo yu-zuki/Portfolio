@@ -10,7 +10,8 @@ Unreal Engineを使用して開発された、私のゲームプロジェクト�
 - ジャンル：3Dベルトスクロール
 - 開発期間：2023年5月1日 ～ 2023年9月24日
 
-[プロジェクトの詳細](https://github.com/your-username/project1)
+[GitHubでプロジェクトの詳細を見る](https://github.com/your-username/project1)
+[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
 
 ### 2. DestinyChanger
 
@@ -18,7 +19,8 @@ Unreal Engineを使用して開発された、私のゲームプロジェクト�
 - ジャンル：ARPG
 - 開発期間：2023年7月8日 ～ 2023年10月9日
 
-[プロジェクトの詳細](https://github.com/yu-zuki/DestinyChanger)
+[GitHubでプロジェクトの詳細を見る](https://github.com/yu-zuki/DestinyChanger)
+[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
 
 ### 3. OpenGL
 
@@ -26,7 +28,8 @@ Unreal Engineを使用して開発された、私のゲームプロジェクト�
 - プログラム作品：OpenGL勉強
 - 開発期間：2023年4月13日 ～ 2023年6月29日
 
-[プロジェクトの詳細](https://github.com/yu-zuki/OpenGLProject)
+[GitHubでプロジェクトの詳細を見る](https://github.com/yu-zuki/OpenGLProject)
+[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
 
 ## 作者
 
