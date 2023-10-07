@@ -11,7 +11,7 @@ Unreal Engineを活用した様々なゲームプロジェクトを展示する�
 - 開発期間: 2023年5月1日 ～ 2023年9月24日
 - 使用技術: Unreal Engine, C++
 
-[GitHubでプロジェクトの詳細を見る](https://github.com)
+[GitHubでプロジェクトの詳細を見る](https://github.com/yu-zuki/NEO)
 
 [Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
 
