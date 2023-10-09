@@ -13,7 +13,7 @@ Unreal Engineを活用した様々なゲームプロジェクトを展示する�
 
 [GitHubでプロジェクトの紹介を見る](https://github.com/yu-zuki/DestinyChanger)
 
-[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
+[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com/drive/folders/1w2h7GhYy8HUFfTIW6YDCepHEAFAgkzOj?usp=sharing)
 
 ### 2. NEO関ヶ原
 
@@ -24,7 +24,7 @@ Unreal Engineを活用した様々なゲームプロジェクトを展示する�
 
 [GitHubでプロジェクトの紹介を見る](https://github.com/yu-zuki/NEO)
 
-[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com)
+[Google Driveでプロジェクトファイルをダウンロード](https://drive.google.com/drive/folders/1w2h7GhYy8HUFfTIW6YDCepHEAFAgkzOj?usp=sharing)
 
 ## 作者について
 
